@@ -8,7 +8,7 @@ This project extracts cryptocurrency data from the CoinCap API for the last 24 h
 2. **Python** is used for data ingestion and transformation to clean and prepare the data.
 3. **PostgreSQL** is used to store the transformed data in a structured format.
 4. **Power BI** is used for analytics and creating the dashboard, providing visualizations of the cryptocurrency market trends.
-![Workflow Diagram](images/workflow.png)
+![Workflow Diagram](Workflow.jpg)
 
 ## Technologies Used
 
